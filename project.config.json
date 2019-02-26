@@ -8,8 +8,9 @@
 		"newFeature": true
 	},
 	"compileType": "miniprogram",
-	"appid": "touristappid",
+	"appid": "wx0ac5a96b163f6330",
 	"projectname": "wepy-demo",
 	"miniprogramRoot": "dist/",
+	"cloudfunctionRoot": "cloud-functions/",
 	"condition": {}
 }
